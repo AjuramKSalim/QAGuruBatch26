@@ -1,1 +1,1 @@
-This is the README file for BAtch 26 after cloning
+This is teh modified README content fior Batc 26 corrected version
